@@ -1,7 +1,7 @@
 """
 1: Ask User what difficulty they want to play (Easy 1-10, Medium 1-50, Hard 1 - 100, Impossible 1 - 1000)
 2: Generate random number based on difficulty chosen
-3: Allo infinite guesses using while loop
+3: Allow infinite guesses using while loop
 4: Also allow option to give up
 """
 
